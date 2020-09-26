@@ -1,0 +1,9 @@
+body {
+	background: url( "{% static 'images/railway.jpg' %}");
+	font-family: 'Titillium web', sans-serif;
+	background-size: cover;
+
+
+}
+
+
